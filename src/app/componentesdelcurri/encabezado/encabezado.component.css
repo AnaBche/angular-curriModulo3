@@ -1,0 +1,28 @@
+/*encabezado*/
+#encabezado {
+    border: 3px solid #47a41c;
+    background-color:#2e5757;
+    background-position: center;
+    width: 99%;
+    height: 40px;
+    margin: 3px;
+}
+#nombre_negativo {
+    color:   #f1f3f5;
+    text-align: left;
+    margin: 10px;
+    margin-top: 15px;
+    margin-bottom: -27px;
+}
+#facebook    {
+        width:30px;
+        height:30px;
+        border-radius:15px;
+        position: relative;
+        left: 80%;
+        margin-bottom: -10px;
+    }
+#registrarse {
+    position: relative;
+    left: 88%;
+}
